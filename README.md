@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gorantla Venkata Lokesh
 
 <p align="center">
-  <img src="profile.jpg" alt="Lokesh Profile Photo" width="180">
+  <img src="./Lokesh.jpg" alt="Lokesh Profile Photo" width="180">
 </p>
 
 <h3 align="center">
